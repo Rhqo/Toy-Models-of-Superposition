@@ -1,5 +1,13 @@
 # Toy-Models-of-Superposition
 
+## toy_models
+<a href="https://colab.research.google.com/github/Rhqo/Toy-Models-of-Superposition/blob/main/toy_models.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+### Paper figures
+- Introduction Figure
+- Visualizing features across varying sparsity
+- Feature geometry
+
 ## KBH_Toy_Models_0 
 <a href="https://colab.research.google.com/github/Rhqo/Toy-Models-of-Superposition/blob/main/KBH_Toy_Models_0.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
