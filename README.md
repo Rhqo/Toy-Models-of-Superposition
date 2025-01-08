@@ -33,3 +33,10 @@
 
 ### How does sparsity affect the model?
 - **5D to 3D (1-S = [0, 0.3, 0.6, 0.9, 0.999])**
+
+## KBH_Toy_Models_3
+<a href="https://colab.research.google.com/github/Rhqo/Toy-Models-of-Superposition/blob/main/KBH_Toy_Models_3.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+### Non-Uniform Superposition
+- Perturbing a single feature
+- Correlated and Anticorrelated features
